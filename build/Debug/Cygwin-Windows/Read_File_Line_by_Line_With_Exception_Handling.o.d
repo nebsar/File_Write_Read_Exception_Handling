@@ -1,0 +1,5 @@
+build/Debug/Cygwin-Windows/Read_File_Line_by_Line_With_Exception_Handling.o: \
+ Read_File_Line_by_Line_With_Exception_Handling.cpp \
+ Read_File_Line_by_Line_With_Exception_Handling.h
+
+Read_File_Line_by_Line_With_Exception_Handling.h:

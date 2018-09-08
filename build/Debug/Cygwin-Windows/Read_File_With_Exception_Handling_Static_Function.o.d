@@ -1,0 +1,5 @@
+build/Debug/Cygwin-Windows/Read_File_With_Exception_Handling_Static_Function.o: \
+ Read_File_With_Exception_Handling_Static_Function.cpp \
+ Read_File_With_Exception_Handling_Static_Function.h
+
+Read_File_With_Exception_Handling_Static_Function.h:
